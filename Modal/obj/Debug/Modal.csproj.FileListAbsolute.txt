@@ -1,0 +1,31 @@
+C:\Users\Mr yu\Desktop\个人博客\Modal\bin\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客\Modal\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\个人博客\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\个人博客\Modal\obj\Debug\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客\Modal\obj\Debug\Modal.pdb
+F:\second\ASP.NET\project\个人博客\Modal\bin\Modal.dll
+F:\second\ASP.NET\project\个人博客\Modal\bin\Modal.pdb
+F:\second\ASP.NET\project\个人博客\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+F:\second\ASP.NET\project\个人博客\Modal\obj\Debug\Modal.dll
+F:\second\ASP.NET\project\个人博客\Modal\obj\Debug\Modal.pdb
+C:\Users\Administrator\Desktop\个人博客\Modal\bin\Modal.dll
+C:\Users\Administrator\Desktop\个人博客\Modal\bin\Modal.pdb
+C:\Users\Administrator\Desktop\个人博客\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\个人博客\Modal\obj\Debug\Modal.dll
+C:\Users\Administrator\Desktop\个人博客\Modal\obj\Debug\Modal.pdb
+F:\个人博客\Modal\bin\Modal.dll.config
+F:\个人博客\Modal\bin\Modal.dll
+F:\个人博客\Modal\bin\Modal.pdb
+F:\个人博客\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+F:\个人博客\Modal\obj\Debug\Modal.dll
+F:\个人博客\Modal\obj\Debug\Modal.pdb
+C:\Users\Mr yu\Desktop\个人博客1\Modal\bin\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客1\Modal\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\个人博客1\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\个人博客1\Modal\obj\Debug\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客1\Modal\obj\Debug\Modal.pdb
+H:\second\ASP.NET\project\个人博客\Modal\bin\Modal.dll
+H:\second\ASP.NET\project\个人博客\Modal\bin\Modal.pdb
+H:\second\ASP.NET\project\个人博客\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+H:\second\ASP.NET\project\个人博客\Modal\obj\Debug\Modal.dll
+H:\second\ASP.NET\project\个人博客\Modal\obj\Debug\Modal.pdb

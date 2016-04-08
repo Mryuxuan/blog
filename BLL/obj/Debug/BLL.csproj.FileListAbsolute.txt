@@ -1,0 +1,55 @@
+C:\Users\Mr yu\Desktop\个人博客\BLL\bin\BLL.dll
+C:\Users\Mr yu\Desktop\个人博客\BLL\bin\BLL.pdb
+C:\Users\Mr yu\Desktop\个人博客\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\个人博客\BLL\obj\Debug\BLL.dll
+C:\Users\Mr yu\Desktop\个人博客\BLL\obj\Debug\BLL.pdb
+C:\Users\Mr yu\Desktop\个人博客\BLL\bin\DAL.dll
+C:\Users\Mr yu\Desktop\个人博客\BLL\bin\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客\BLL\bin\DAL.pdb
+C:\Users\Mr yu\Desktop\个人博客\BLL\bin\Modal.pdb
+F:\second\ASP.NET\project\个人博客\BLL\bin\BLL.dll
+F:\second\ASP.NET\project\个人博客\BLL\bin\BLL.pdb
+F:\second\ASP.NET\project\个人博客\BLL\bin\DAL.dll
+F:\second\ASP.NET\project\个人博客\BLL\bin\Modal.dll
+F:\second\ASP.NET\project\个人博客\BLL\bin\DAL.pdb
+F:\second\ASP.NET\project\个人博客\BLL\bin\Modal.pdb
+F:\second\ASP.NET\project\个人博客\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\second\ASP.NET\project\个人博客\BLL\obj\Debug\BLL.dll
+F:\second\ASP.NET\project\个人博客\BLL\obj\Debug\BLL.pdb
+H:\second\ASP.NET\project\个人博客\BLL\bin\BLL.dll
+H:\second\ASP.NET\project\个人博客\BLL\bin\BLL.pdb
+H:\second\ASP.NET\project\个人博客\BLL\bin\DAL.dll
+H:\second\ASP.NET\project\个人博客\BLL\bin\Modal.dll
+H:\second\ASP.NET\project\个人博客\BLL\bin\DAL.pdb
+H:\second\ASP.NET\project\个人博客\BLL\bin\Modal.pdb
+H:\second\ASP.NET\project\个人博客\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\second\ASP.NET\project\个人博客\BLL\obj\Debug\BLL.dll
+H:\second\ASP.NET\project\个人博客\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\个人博客\BLL\bin\BLL.dll
+C:\Users\Administrator\Desktop\个人博客\BLL\bin\BLL.pdb
+C:\Users\Administrator\Desktop\个人博客\BLL\bin\DAL.dll
+C:\Users\Administrator\Desktop\个人博客\BLL\bin\Modal.dll
+C:\Users\Administrator\Desktop\个人博客\BLL\bin\DAL.pdb
+C:\Users\Administrator\Desktop\个人博客\BLL\bin\Modal.pdb
+C:\Users\Administrator\Desktop\个人博客\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\个人博客\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\个人博客\BLL\obj\Debug\BLL.pdb
+F:\个人博客\BLL\bin\BLL.dll.config
+F:\个人博客\BLL\bin\BLL.dll
+F:\个人博客\BLL\bin\BLL.pdb
+F:\个人博客\BLL\bin\DAL.dll
+F:\个人博客\BLL\bin\Modal.dll
+F:\个人博客\BLL\bin\DAL.pdb
+F:\个人博客\BLL\bin\Modal.pdb
+F:\个人博客\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\个人博客\BLL\obj\Debug\BLL.dll
+F:\个人博客\BLL\obj\Debug\BLL.pdb
+C:\Users\Mr yu\Desktop\个人博客1\BLL\bin\BLL.dll
+C:\Users\Mr yu\Desktop\个人博客1\BLL\bin\BLL.pdb
+C:\Users\Mr yu\Desktop\个人博客1\BLL\bin\DAL.dll
+C:\Users\Mr yu\Desktop\个人博客1\BLL\bin\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客1\BLL\bin\DAL.pdb
+C:\Users\Mr yu\Desktop\个人博客1\BLL\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\个人博客1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\个人博客1\BLL\obj\Debug\BLL.dll
+C:\Users\Mr yu\Desktop\个人博客1\BLL\obj\Debug\BLL.pdb

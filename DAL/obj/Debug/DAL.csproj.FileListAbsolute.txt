@@ -1,0 +1,43 @@
+C:\Users\Mr yu\Desktop\个人博客\DAL\bin\DAL.dll
+C:\Users\Mr yu\Desktop\个人博客\DAL\bin\DAL.pdb
+C:\Users\Mr yu\Desktop\个人博客\DAL\bin\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客\DAL\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\个人博客\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\个人博客\DAL\obj\Debug\DAL.dll
+C:\Users\Mr yu\Desktop\个人博客\DAL\obj\Debug\DAL.pdb
+F:\second\ASP.NET\project\个人博客\DAL\bin\DAL.dll
+F:\second\ASP.NET\project\个人博客\DAL\bin\DAL.pdb
+F:\second\ASP.NET\project\个人博客\DAL\bin\Modal.dll
+F:\second\ASP.NET\project\个人博客\DAL\bin\Modal.pdb
+F:\second\ASP.NET\project\个人博客\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\second\ASP.NET\project\个人博客\DAL\obj\Debug\DAL.dll
+F:\second\ASP.NET\project\个人博客\DAL\obj\Debug\DAL.pdb
+H:\second\ASP.NET\project\个人博客\DAL\bin\DAL.dll
+H:\second\ASP.NET\project\个人博客\DAL\bin\DAL.pdb
+H:\second\ASP.NET\project\个人博客\DAL\bin\Modal.dll
+H:\second\ASP.NET\project\个人博客\DAL\bin\Modal.pdb
+H:\second\ASP.NET\project\个人博客\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\second\ASP.NET\project\个人博客\DAL\obj\Debug\DAL.dll
+H:\second\ASP.NET\project\个人博客\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\个人博客\DAL\bin\DAL.dll
+C:\Users\Administrator\Desktop\个人博客\DAL\bin\DAL.pdb
+C:\Users\Administrator\Desktop\个人博客\DAL\bin\Modal.dll
+C:\Users\Administrator\Desktop\个人博客\DAL\bin\Modal.pdb
+C:\Users\Administrator\Desktop\个人博客\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\个人博客\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\个人博客\DAL\obj\Debug\DAL.pdb
+F:\个人博客\DAL\bin\DAL.dll.config
+F:\个人博客\DAL\bin\DAL.dll
+F:\个人博客\DAL\bin\DAL.pdb
+F:\个人博客\DAL\bin\Modal.dll
+F:\个人博客\DAL\bin\Modal.pdb
+F:\个人博客\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\个人博客\DAL\obj\Debug\DAL.dll
+F:\个人博客\DAL\obj\Debug\DAL.pdb
+C:\Users\Mr yu\Desktop\个人博客1\DAL\bin\DAL.dll
+C:\Users\Mr yu\Desktop\个人博客1\DAL\bin\DAL.pdb
+C:\Users\Mr yu\Desktop\个人博客1\DAL\bin\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客1\DAL\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\个人博客1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\个人博客1\DAL\obj\Debug\DAL.dll
+C:\Users\Mr yu\Desktop\个人博客1\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,89 @@
+C:\Users\Mr yu\Desktop\个人博客\个人博客\bin\个人博客.dll
+C:\Users\Mr yu\Desktop\个人博客\个人博客\bin\个人博客.pdb
+C:\Users\Mr yu\Desktop\个人博客\个人博客\obj\Debug\个人博客.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\个人博客\个人博客\obj\Debug\个人博客.dll
+C:\Users\Mr yu\Desktop\个人博客\个人博客\obj\Debug\个人博客.pdb
+C:\Users\Mr yu\Desktop\个人博客\个人博客\bin\BLL.dll
+C:\Users\Mr yu\Desktop\个人博客\个人博客\bin\DAL.dll
+C:\Users\Mr yu\Desktop\个人博客\个人博客\bin\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客\个人博客\bin\BLL.pdb
+C:\Users\Mr yu\Desktop\个人博客\个人博客\bin\DAL.pdb
+C:\Users\Mr yu\Desktop\个人博客\个人博客\bin\Modal.pdb
+F:\second\ASP.NET\project\个人博客\个人博客\bin\个人博客.dll
+F:\second\ASP.NET\project\个人博客\个人博客\bin\个人博客.pdb
+F:\second\ASP.NET\project\个人博客\个人博客\bin\BLL.dll
+F:\second\ASP.NET\project\个人博客\个人博客\bin\DAL.dll
+F:\second\ASP.NET\project\个人博客\个人博客\bin\Modal.dll
+F:\second\ASP.NET\project\个人博客\个人博客\bin\BLL.pdb
+F:\second\ASP.NET\project\个人博客\个人博客\bin\DAL.pdb
+F:\second\ASP.NET\project\个人博客\个人博客\bin\Modal.pdb
+F:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.csprojResolveAssemblyReference.cache
+F:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.dll
+F:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.pdb
+H:\second\ASP.NET\project\个人博客\个人博客\bin\个人博客.dll
+H:\second\ASP.NET\project\个人博客\个人博客\bin\个人博客.pdb
+H:\second\ASP.NET\project\个人博客\个人博客\bin\BLL.dll
+H:\second\ASP.NET\project\个人博客\个人博客\bin\DAL.dll
+H:\second\ASP.NET\project\个人博客\个人博客\bin\Modal.dll
+H:\second\ASP.NET\project\个人博客\个人博客\bin\BLL.pdb
+H:\second\ASP.NET\project\个人博客\个人博客\bin\DAL.pdb
+H:\second\ASP.NET\project\个人博客\个人博客\bin\Modal.pdb
+H:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.csprojResolveAssemblyReference.cache
+H:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.dll
+H:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.pdb
+L:\second\ASP.NET\project\个人博客\个人博客\bin\个人博客.dll
+L:\second\ASP.NET\project\个人博客\个人博客\bin\个人博客.pdb
+L:\second\ASP.NET\project\个人博客\个人博客\bin\BLL.dll
+L:\second\ASP.NET\project\个人博客\个人博客\bin\DAL.dll
+L:\second\ASP.NET\project\个人博客\个人博客\bin\Modal.dll
+L:\second\ASP.NET\project\个人博客\个人博客\bin\BLL.pdb
+L:\second\ASP.NET\project\个人博客\个人博客\bin\DAL.pdb
+L:\second\ASP.NET\project\个人博客\个人博客\bin\Modal.pdb
+L:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.csprojResolveAssemblyReference.cache
+L:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.dll
+L:\second\ASP.NET\project\个人博客\个人博客\obj\Debug\个人博客.pdb
+E:\ASP.net\个人博客\个人博客\bin\个人博客.dll
+E:\ASP.net\个人博客\个人博客\bin\个人博客.pdb
+E:\ASP.net\个人博客\个人博客\bin\BLL.dll
+E:\ASP.net\个人博客\个人博客\bin\DAL.dll
+E:\ASP.net\个人博客\个人博客\bin\Modal.dll
+E:\ASP.net\个人博客\个人博客\bin\BLL.pdb
+E:\ASP.net\个人博客\个人博客\bin\DAL.pdb
+E:\ASP.net\个人博客\个人博客\bin\Modal.pdb
+E:\ASP.net\个人博客\个人博客\obj\Debug\个人博客.csprojResolveAssemblyReference.cache
+E:\ASP.net\个人博客\个人博客\obj\Debug\个人博客.dll
+E:\ASP.net\个人博客\个人博客\obj\Debug\个人博客.pdb
+C:\Users\Administrator\Desktop\个人博客\个人博客\bin\个人博客.dll
+C:\Users\Administrator\Desktop\个人博客\个人博客\bin\个人博客.pdb
+C:\Users\Administrator\Desktop\个人博客\个人博客\bin\BLL.dll
+C:\Users\Administrator\Desktop\个人博客\个人博客\bin\DAL.dll
+C:\Users\Administrator\Desktop\个人博客\个人博客\bin\Modal.dll
+C:\Users\Administrator\Desktop\个人博客\个人博客\bin\BLL.pdb
+C:\Users\Administrator\Desktop\个人博客\个人博客\bin\DAL.pdb
+C:\Users\Administrator\Desktop\个人博客\个人博客\bin\Modal.pdb
+C:\Users\Administrator\Desktop\个人博客\个人博客\obj\Debug\个人博客.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\个人博客\个人博客\obj\Debug\个人博客.dll
+C:\Users\Administrator\Desktop\个人博客\个人博客\obj\Debug\个人博客.pdb
+F:\个人博客\个人博客\bin\个人博客.dll.config
+F:\个人博客\个人博客\bin\个人博客.dll
+F:\个人博客\个人博客\bin\个人博客.pdb
+F:\个人博客\个人博客\bin\BLL.dll
+F:\个人博客\个人博客\bin\DAL.dll
+F:\个人博客\个人博客\bin\Modal.dll
+F:\个人博客\个人博客\bin\BLL.pdb
+F:\个人博客\个人博客\bin\DAL.pdb
+F:\个人博客\个人博客\bin\Modal.pdb
+F:\个人博客\个人博客\obj\Debug\个人博客.csprojResolveAssemblyReference.cache
+F:\个人博客\个人博客\obj\Debug\个人博客.dll
+F:\个人博客\个人博客\obj\Debug\个人博客.pdb
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\bin\个人博客.dll
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\bin\个人博客.pdb
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\bin\BLL.dll
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\bin\DAL.dll
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\bin\Modal.dll
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\bin\BLL.pdb
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\bin\DAL.pdb
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\obj\Debug\个人博客.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\obj\Debug\个人博客.dll
+C:\Users\Mr yu\Desktop\个人博客1\个人博客\obj\Debug\个人博客.pdb
